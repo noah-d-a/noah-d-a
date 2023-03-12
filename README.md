@@ -1,7 +1,7 @@
 <html>
-<head>
-</head>
-<body>
-<p>HI :)</p>
-</body>
+  <head>
+  </head>
+  <body>
+    <p>HI :)</p>
+  </body>
 </html>
