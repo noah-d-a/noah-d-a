@@ -1,7 +1,3 @@
-<html>
-  <head>
-  </head>
   <body>
     <p>HI :)</p>
   </body>
-</html>
